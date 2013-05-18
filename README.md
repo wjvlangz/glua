@@ -57,3 +57,5 @@ test.lua file likes this:
     gotest.goprintln(true, 123, "lua", gotest.NewInt())
     
     
+###Code license
+GNU Lesser GPL
